@@ -2,10 +2,3 @@ numpy
 joblib
 scikit-learn
 streamlit
-
-pip install numpy
-pip install joblib
-pip install scikit-learn
-pip install streamlit
-
-pip install -r requirements.txt
